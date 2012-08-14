@@ -3,7 +3,7 @@
 <title>mypageforyandex
 </title>
 </head>
-<body>
-<img src=http://images37.fotosik.pl/1126/1a1d28260d688ad6.jpg  >
+<body background=http://365psd.ru/images/backgrounds/old_mathematics.png>
+
 </body>
 </html> 
