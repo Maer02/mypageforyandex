@@ -1,9 +1,9 @@
 <html>
 <head>
-<title>mypageforyandex
+<title>
 </title>
 </head>
-<body background=http://365psd.ru/images/backgrounds/old_mathematics.png>
-
+<body>
+<img scr="http://s004.radikal.ru/i208/1202/7f/66aa6e19e266.jpg">
 </body>
 </html> 
