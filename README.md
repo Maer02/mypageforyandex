@@ -3,7 +3,7 @@
 <title>
 </title>
 </head>
-<body>
-<img scr="http://s004.radikal.ru/i208/1202/7f/66aa6e19e266.jpg">
+<body background="https://github.com/downloads/Maer02/mypageforyandex/old_mathematics.png">
+
 </body>
 </html> 
